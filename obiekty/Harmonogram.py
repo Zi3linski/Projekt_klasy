@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 dni_tygodnia=["pn","wt","sr","cz","pt","so","nd"]
 
 class Harmonogram:
@@ -18,3 +19,6 @@ class Harmonogram:
     print(dni_tygodnia)
 
 #dokonczyc harmonogram , aby z poziomu nauczyciela chcemy zobaczyc jak wyglada plan zajaec np na poniedzialek
+=======
+dni
+>>>>>>> github/master
